@@ -72,7 +72,7 @@ il faut utiliser le logiciel de clonage Icom (CS-52, CS-50 ou CS-5100).
 > ⚠️ Seul l'**IC-7300** a été testé sur un vrai poste. Les autres modèles ont été testés avec des postes
 > simulés, construits à partir des guides CI-V officiels Icom. Les retours d'essais sont les bienvenus.
 >
-> Pensez quand même a sauvegarder une dernière fois sur votre carte SD, au cas ou ... 
+> ⚠️ Pensez quand même a sauvegarder une dernière fois sur votre carte SD, au cas ou ... ⚠️
 
 
 ## Installation et utilisation
