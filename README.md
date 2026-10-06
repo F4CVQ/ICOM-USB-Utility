@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_f4cvq.png" alt="F4CVQ" width="220">
+
 </p>
 
 <h1 align="center">ICOM IC-USB UTILITY</h1>
